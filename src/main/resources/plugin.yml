@@ -1,0 +1,5 @@
+name: spectre
+version: '${version}'
+
+main: irinque.spectre.Spectre
+api-version: '26.1'
