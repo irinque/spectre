@@ -1,5 +1,6 @@
-package irinque.spectre;
+package me.irinque.spectre.handlers;
 
+import me.irinque.spectre.loaders.PluginTeamLoader;
 import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;

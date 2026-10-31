@@ -1,7 +1,11 @@
-package irinque.spectre;
+package me.irinque.spectre;
 
 import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.Bukkit;
+import me.irinque.spectre.handlers.OnPlayerClick;
+import me.irinque.spectre.handlers.OnPlayerJoin;
+import me.irinque.spectre.handlers.OnPlayerQuit;
+import me.irinque.spectre.loaders.PluginTeamLoader;
 
 public final class Spectre extends JavaPlugin {
 

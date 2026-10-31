@@ -1,4 +1,4 @@
-package irinque.spectre;
+package me.irinque.spectre.handlers;
 
 import net.md_5.bungee.api.ChatMessageType;
 import net.md_5.bungee.api.chat.TextComponent;

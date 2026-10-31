@@ -1,4 +1,4 @@
-package irinque.spectre;
+package me.irinque.spectre.loaders;
 
 import java.util.HashMap;
 import java.util.Map;

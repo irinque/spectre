@@ -1,4 +1,4 @@
-package irinque.spectre;
+package me.irinque.spectre;
 
 import java.io.BufferedReader;
 import java.io.ByteArrayOutputStream;
