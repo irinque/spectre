@@ -46,7 +46,7 @@ Build the plugin with Maven:
 mvn clean package
 ```
 
-Copy `target/spectre-1.0-SNAPSHOT.jar` into the server's `plugins` directory and restart the server.
+Copy `target/spectre-1.0.jar` into the server's `plugins` directory and restart the server.
 
 ---
 
